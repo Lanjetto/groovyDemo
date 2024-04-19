@@ -1,4 +1,4 @@
-package com.nexign.testJava
+package com.nexign.testJava.day1
 
 import groovy.transform.ToString
 

@@ -1,6 +1,6 @@
-package com.nexign.testJava.two
+package com.nexign.testJava.day1.two
 
-import com.nexign.testJava.one.TestImortClass
+import com.nexign.testJava.day1.one.TestImortClass
 
 class HelloGroovyClass {
     def printHello() {

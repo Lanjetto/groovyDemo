@@ -1,4 +1,4 @@
-package com.nexign.testJava.one
+package com.nexign.testJava.day1.one
 
 
 

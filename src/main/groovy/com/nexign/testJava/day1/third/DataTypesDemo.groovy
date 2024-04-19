@@ -1,6 +1,6 @@
-package com.nexign.testJava.third
+package com.nexign.testJava.day1.third
 
-import com.nexign.testJava.Person
+import com.nexign.testJava.day1.Person
 
 class DataTypesDemo {
     static void main(String[] args) {
